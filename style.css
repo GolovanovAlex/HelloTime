@@ -1,0 +1,54 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: chocolate;
+    transition: all .40s;
+}
+
+div {
+    text-align: center;
+}
+
+button {
+    border: 3px solid black;
+    margin-top: 40px;
+    padding: 15px 20px;
+    border-radius: 20px;
+    background: transparent;
+    cursor: pointer;
+    outline: none;
+    font-size: 20px;
+}
+
+button:hover {
+    box-shadow: inset 1px 1px 10px black;
+}
+
+button:active {
+    position: relative;
+    top: 1px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+h1,
+h3 {
+    animation: down 1.5s;
+}
+
+@keyframes down {
+    from {
+        transform: translateY(-50px);
+    }
+    to {
+        transform: translateY(0);
+    }
+}
