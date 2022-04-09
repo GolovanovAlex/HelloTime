@@ -3,5 +3,5 @@ Simpl website - time and 'hello'!
 <br>
 Learning *HTML, CSS and JS*.
 ***
-[Link](https://golovanovalex.github.io/HelloTime/ 'target="_blank"')
+[Link]^ https://golovanovalex.github.io/HelloTime/
 ***
