@@ -1,7 +1,4 @@
 # HelloTime
-Simpl website - time and hello!
-
-# SmoothScroll JS
 
 ### Use Skills
 
@@ -11,7 +8,7 @@ Simpl website - time and hello!
 
 ---
 
-[Demo Link <br>![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/AlexGolovanov/pen/JjpZjmJ)
+[Demo Link <br>![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GolovanovAlex)
 
 ## Info
 
