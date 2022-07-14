@@ -10,6 +10,8 @@
 
 [Demo Link <br>![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://golovanovalex.github.io/HelloTime)
 
+![hellotime](readme/hellotime.gif)
+
 ## Info
 
 Создано на основе видео с Youtube канала [Glo Academy](https://www.youtube.com/c/GloAcademyChannel).  
