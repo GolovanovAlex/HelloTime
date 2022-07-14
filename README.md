@@ -14,9 +14,10 @@
 
 ## Info
 
-Создано на основе видео с Youtube канала [Glo Academy](https://www.youtube.com/c/GloAcademyChannel).  
-Для обучения и отработки работы c JavaScript.  
-Плавная прокрутка при скроле.
+Создано на основе [Result School](https://vladilen.ru/courses).  
+Для обучения и отработки работы c CSS и JavaScript.  
+Изменение и смена фона при нажатии на кнопку.
+Актуальное время.
 
 ---
 
