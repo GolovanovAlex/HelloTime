@@ -1,4 +1,4 @@
-# HelloTime
+# Hello Time
 
 ### Use Skills
 
@@ -8,31 +8,22 @@
 
 ---
 
-[Demo Link <br>![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://golovanovalex.github.io/HelloTime)
+[Demo Link <br> ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://golovanovalex.github.io/HelloTime)
+
+### Info
 
 ![hellotime](readme/hellotime.gif)
 
-## Info
-
-Создано на основе [Result School](https://vladilen.ru/courses).  
+Создано на основе задания от [Result School](https://result.school/products).  
 Для обучения и отработки работы c CSS и JavaScript.  
 Изменение и смена фона при нажатии на кнопку.
 Отображение актуального времени.
 
 ---
 
-## Contacts
+### Contacts
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GolovanovAlex)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LeConseiller_Alex)
-<a href="mailto:leconseiller@yandex.ru" style="font-size: 20px; color: black;">
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GolovanovAlex)
 
 - <a href="mailto:golovanov.a.a@yandex.ru" >Golovanov.a.a@yandex.ru</a>
-
-
-
-
-
-
-  
-  
